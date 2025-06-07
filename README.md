@@ -138,7 +138,7 @@ Password for 'https://Nick5-IU@github.com':
 Запись объектов: 100% (3/3), 348 байтов | 348.00 КиБ/с, готово.
 Total 3 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
 remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
-To https://github.com/alexvsl2007/lab02.git
+To https://github.com/Nick5-IU/lab02.git
    4e5e092..dedec40  patch2 -> patch2
 
 
