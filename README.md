@@ -1,6 +1,5 @@
 Создал пустой репозиторий на сервисе github.com (или gitlab.com, или bitbucket.com).
 Выполнил инструкцию по созданию первого коммита на странице репозитория, созданного на предыдещем шаге.
-$ git clone https://github.com/alexvsl2007/lab02.git
 cd lab02
 Клонирование в «lab02»...
 remote: Enumerating objects: 3, done.
