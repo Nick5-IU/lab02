@@ -52,7 +52,7 @@ Password for 'https://Nick5-IU@github.com':
 Запись объектов: 100% (9/9), 1.02 КиБ | 1.02 МиБ/с, готово.
 Total 9 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
 remote: Resolving deltas: 100% (1/1), done.
-To https://github.com/alexvsl2007/lab02.git
+To https://github.com/Nick5-IU/lab02.git
 0414ce4..39beeba  main -> main
 
 Проверил, что история коммитов доступна в удалёный репозитории.
@@ -71,7 +71,7 @@ Part II
       return 0;
   }
 ```
-commit, push локальную ветку в удалённый репозиторий. $ git commit -am "Removed using namespace std" git push origin patch1 Текущая ветка: patch1 нечего коммитить, нет изменений в рабочем каталоге Username for 'https://github.com': alexvsl2007                                          Password for 'https://alexvsl2007@github.com':  Перечисление объектов: 5, готово. Подсчет объектов: 100% (5/5), готово. При сжатии изменений используется до 4 потоков Сжатие объектов: 100% (3/3), готово. Запись объектов: 100% (3/3), 393 байта | 393.00 КиБ/с, готово. Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0) remote: Resolving deltas: 100% (1/1), completed with 1 local object. remote:  remote: Create a pull request for 'patch1' on GitHub by visiting: remote:      https://github.com/alexvsl2007/lab02/pull/new/patch1 remote:  To https://github.com/alexvsl2007/lab02.git * [new branch]      patch1 -> patch1 3.Проверьте, что ветка patch1 доступна в удалёный репозитории. 4.Создайте pull-request patch1 -> master. 5.В локальной копии в ветке patch1 добавьте в исходный код комментарии. commit, push.
+commit, push локальную ветку в удалённый репозиторий. $ git commit -am "Removed using namespace std" git push origin patch1 Текущая ветка: patch1 нечего коммитить, нет изменений в рабочем каталоге Username for 'https://github.com': Nick5-IU                                          Password for 'https://Nick5-IU@github.com':  Перечисление объектов: 5, готово. Подсчет объектов: 100% (5/5), готово. При сжатии изменений используется до 4 потоков Сжатие объектов: 100% (3/3), готово. Запись объектов: 100% (3/3), 393 байта | 393.00 КиБ/с, готово. Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0) remote: Resolving deltas: 100% (1/1), completed with 1 local object. remote:  remote: Create a pull request for 'patch1' on GitHub by visiting: remote:      https://github.com/Nick5-IU/lab02/pull/new/patch1 remote:  To https://github.com/Nick5-IU/lab02.git * [new branch]      patch1 -> patch1 3.Проверьте, что ветка patch1 доступна в удалёный репозитории. 4.Создайте pull-request patch1 -> master. 5.В локальной копии в ветке patch1 добавьте в исходный код комментарии. commit, push.
 
 ```
 $ git commit -am "Added comments to the code"
@@ -161,7 +161,7 @@ int main() {
 $ git pull origin main  
 git rebase main  
 
-Из https://github.com/alexvsl2007/lab02
+Из https://github.com/Nick5-IU/lab02
  * branch            main       -> FETCH_HEAD
 Уже актуально.
 Текущая ветка main уже в актуальном состоянии.
